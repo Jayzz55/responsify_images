@@ -12,6 +12,7 @@ Requirement to run this tool:
 
 * [Node JS](https://nodejs.org/)
 * [Grunt-CLI](http://gruntjs.com/getting-started)
+* [Graphics Magick](http://www.graphicsmagick.org/index.html) or [Image Magick](http://www.imagemagick.org/)
 
 
 To use this tool to scale the images:
