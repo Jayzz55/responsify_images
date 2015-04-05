@@ -1,4 +1,4 @@
-responsify images
+Responsify Images
 =======================
 
 This is a quick and lazy tool to quickly scale your images to various different size.
@@ -30,6 +30,6 @@ This tool is built based on the following guide and technology:
 Further README and credit of this technology:
 ------------------------------------------
 
-[grunt-responsive-images](https://github.com/andismith/grunt-responsive-images/)
+#[grunt-responsive-images](https://github.com/andismith/grunt-responsive-images/)
 
 Big credit to [Andi Smith](https://github.com/andismith), and if you like to support or contribute more to this. please checkout the [source github](https://github.com/andismith/grunt-responsive-images/)
